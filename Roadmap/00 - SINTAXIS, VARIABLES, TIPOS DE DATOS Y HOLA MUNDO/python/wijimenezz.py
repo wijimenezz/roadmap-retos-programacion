@@ -11,13 +11,14 @@ mi_lenguaje = "python"
 #Variables para valores Primitivos
 int_var= 4
 float_var= 10.2
-Bool_var= True
-Bool_var= Flase
+Bool_var1= True
+Bool_var2= Flase
 
 #Comprobar tipos de variables
 Print(type(int_var))
 Print(type(float_var))
-Print(type(Bool_var))
+Print(type(Bool_var1))
+Print(type(Bool_var2))
 
 #vimprimir mensaje
-print(f"El lengiaje que quiero aprende es {mi_lenguaje}")
+print(f"El lenguaje que quiero aprende es {mi_lenguaje}")
